@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "0116fKRpxuw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keoxc\\source\\repos\\CloudProject\\CloudAPI\\src\\CloudAPI\\CloudAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keoxc\\.nuget\\packages\\awssdk.core\\4.0.0.32\\awssdk.core.4.0.0.32.nupkg.sha512",
+    "C:\\Users\\keoxc\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.7\\awssdk.dynamodbv2.4.0.7.nupkg.sha512",
+    "C:\\Users\\keoxc\\.nuget\\packages\\awssdk.extensions.netcore.setup\\4.0.3.4\\awssdk.extensions.netcore.setup.4.0.3.4.nupkg.sha512",
+    "C:\\Users\\keoxc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\keoxc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\keoxc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\keoxc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\keoxc\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\keoxc\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\keoxc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
