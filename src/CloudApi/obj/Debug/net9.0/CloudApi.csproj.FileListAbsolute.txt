@@ -1,0 +1,9 @@
+C:\Users\keoxc\source\repos\CloudProject\src\CloudAPI\obj\Debug\net9.0\CloudAPI.csproj.AssemblyReference.cache
+C:\Users\keoxc\source\repos\CloudProject\src\CloudAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\keoxc\source\repos\CloudProject\src\CloudAPI\obj\Debug\net9.0\CloudAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keoxc\source\repos\CloudProject\src\CloudAPI\obj\Debug\net9.0\CloudAPI.AssemblyInfoInputs.cache
+C:\Users\keoxc\source\repos\CloudProject\src\CloudAPI\obj\Debug\net9.0\CloudAPI.AssemblyInfo.cs
+C:\Users\keoxc\source\repos\CloudProject\src\CloudAPI\obj\Debug\net9.0\CloudAPI.csproj.CoreCompileInputs.cache
+C:\Users\keoxc\source\repos\CloudProject\src\CloudAPI\obj\Debug\net9.0\CloudAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\keoxc\source\repos\CloudProject\src\CloudAPI\obj\Debug\net9.0\CloudAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keoxc\source\repos\CloudProject\src\CloudAPI\obj\Debug\net9.0\CloudAPI.sourcelink.json

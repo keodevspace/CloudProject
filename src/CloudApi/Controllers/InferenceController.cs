@@ -14,6 +14,12 @@ public class InferenceController : ControllerBase
     public async Task<IActionResult> RunInference([FromBody] string inputData)
         {
         var result = await _inferenceService.RunInferenceAndLog(inputData);
-        return Ok(new { Input = inputData, Prediction = result, Status = "Logged and Inferred" });
+
+        return Ok(new
+            {
+            Input = inputData,
+            Prediction = result,
+            Status = "Inference executada e logada com sucesso"
+            });
         }
     }

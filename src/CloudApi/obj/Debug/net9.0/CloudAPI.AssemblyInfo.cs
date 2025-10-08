@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudAPI")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e11780edf67da52d94b2515728fe64b1fa40b5aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+976c8fa447cabff719c09683f33474f04eb56815")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

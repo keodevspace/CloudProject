@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keoxc\\source\\repos\\CloudProject\\CloudAPI\\src\\CloudAPI\\CloudAPI.csproj": {}
+    "C:\\Users\\keoxc\\source\\repos\\CloudProject\\src\\CloudApi\\CloudApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keoxc\\source\\repos\\CloudProject\\CloudAPI\\src\\CloudAPI\\CloudAPI.csproj": {
+    "C:\\Users\\keoxc\\source\\repos\\CloudProject\\src\\CloudApi\\CloudApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keoxc\\source\\repos\\CloudProject\\CloudAPI\\src\\CloudAPI\\CloudAPI.csproj",
-        "projectName": "CloudAPI",
-        "projectPath": "C:\\Users\\keoxc\\source\\repos\\CloudProject\\CloudAPI\\src\\CloudAPI\\CloudAPI.csproj",
+        "projectUniqueName": "C:\\Users\\keoxc\\source\\repos\\CloudProject\\src\\CloudApi\\CloudApi.csproj",
+        "projectName": "CloudApi",
+        "projectPath": "C:\\Users\\keoxc\\source\\repos\\CloudProject\\src\\CloudApi\\CloudApi.csproj",
         "packagesPath": "C:\\Users\\keoxc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keoxc\\source\\repos\\CloudProject\\CloudAPI\\src\\CloudAPI\\obj\\",
+        "outputPath": "C:\\Users\\keoxc\\source\\repos\\CloudProject\\src\\CloudApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,10 +53,6 @@
             "AWSSDK.DynamoDBv2": {
               "target": "Package",
               "version": "[4.0.7, )"
-            },
-            "AWSSDK.Extensions.NETCore.Setup": {
-              "target": "Package",
-              "version": "[4.0.3.4, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
