@@ -30,9 +30,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
-
-
-Git failed with a fatal error.
-error: open(".vs/CloudProject/FileContentIndex/042ae3af-a5f5-4d87-bf87-63c1452dde9f.vsidx"): Permission denied
-fatal: Unable to process path .vs/CloudProject/FileContentIndex/042ae3af-a5f5-4d87-bf87-63c1452dde9f.vsidx 
